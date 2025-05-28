@@ -1,0 +1,22 @@
+# MLX Neural Architecture Search - Core Requirements
+
+# Core MLX framework
+mlx>=0.18.0
+mlx-lm>=0.19.0
+
+# Scientific computing
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Data handling
+pandas>=2.0.0
+
+# System monitoring
+psutil>=5.9.0
+
+# For statistical analysis and benchmarking
+statistics  # Built-in Python module
+
+# Optional: For enhanced UI
+# streamlit>=1.28.0  # Uncomment for web interface
+# plotly>=5.17.0     # Uncomment for visualizations 

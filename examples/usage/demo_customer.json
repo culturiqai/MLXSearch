@@ -1,0 +1,30 @@
+{
+  "failures": [
+    {
+      "request_id": "ac624406-68ce-4c4d-9cce-1801f256bc86",
+      "error": "max() iterable argument is empty",
+      "timestamp": "2025-05-28T22:58:15.473107"
+    }
+  ],
+  "2025-05": {
+    "operations": 2,
+    "total_speedup": 2.2,
+    "total_value_usd": 200.0,
+    "details": [
+      {
+        "request_id": "9203ad4f-69ca-4698-b1ea-39c48bdc1b98",
+        "operation_type": "elementwise",
+        "speedup": 1.1,
+        "value_usd": 100.0,
+        "timestamp": "2025-05-28T23:01:32.973158"
+      },
+      {
+        "request_id": "79e5eb0b-c103-4e4d-b41e-947dd1337cd7",
+        "operation_type": "elementwise",
+        "speedup": 1.1,
+        "value_usd": 100.0,
+        "timestamp": "2025-05-28T23:09:05.357897"
+      }
+    ]
+  }
+}
