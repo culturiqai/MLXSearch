@@ -1,4 +1,4 @@
-# 🧠 MLX Neural Architecture Search
+#  MLX Neural Architecture Search
 
 **Scientifically rigorous neural architecture search for Apple Silicon, powered by local AI evolution.**
 
