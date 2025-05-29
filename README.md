@@ -8,7 +8,7 @@
 
 ## 🎯 Overview
 
-The first comprehensive Neural Architecture Search (NAS) system designed specifically for Apple Silicon hardware. Unlike existing tools that rely on fake metrics or transfer learning from CUDA, this system:
+Comprehensive Neural Architecture Search (NAS) system designed specifically for Apple Silicon hardware. This system:
 
 - **🔬 Measures real performance** on your actual hardware
 - **🤖 Uses local AI** (Phi-3) to intelligently evolve architectures  
