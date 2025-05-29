@@ -1,6 +1,6 @@
 #  MLX Neural Architecture Search
 
-**Scientifically rigorous neural architecture search for Apple Silicon, powered by local AI evolution.**
+**Neural architecture search for Apple Silicon, powered by local AI evolution.**
 
 [![MLX](https://img.shields.io/badge/MLX-Compatible-blue)](https://github.com/ml-explore/mlx)
 [![Python](https://img.shields.io/badge/Python-3.9+-green)](https://python.org)
@@ -204,4 +204,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**⚠️ Note**: This project provides real measurements, not estimates. All performance claims are verified on actual hardware. 
